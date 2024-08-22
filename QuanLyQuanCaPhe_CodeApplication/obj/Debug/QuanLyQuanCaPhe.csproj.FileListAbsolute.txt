@@ -1,0 +1,83 @@
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Login.resources
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\tranv\OneDrive\Máy tính\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Login.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.NhanVien.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.QuanLy.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.ThongTin.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Change_Pass.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Xem_CaLam.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.HoaDon.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Them_NhanVien.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.ThongKe.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Quanly_NhanVien.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Sua_NhanVien.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.QuanLy_ThucDon.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Sua_ThucUong.resources
+H:\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Them_ThucUong.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Change_Pass.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.HoaDon.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Login.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.NhanVien.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.QuanLy.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Quanly_NhanVien.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.QuanLy_ThucDon.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Sua_NhanVien.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Sua_ThucUong.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Them_NhanVien.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Them_ThucUong.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.ThongKe.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.ThongTin.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Xem_CaLam.resources
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+H:\DoAnDBMS\ProjectFinalDBMS\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+C:\Temporary\Project\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Temporary\Project\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Temporary\Project\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Change_Pass.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.HoaDon.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Login.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.NhanVien.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.QuanLy.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Quanly_NhanVien.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.QuanLy_ThucDon.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Sua_NhanVien.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Sua_ThucUong.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Them_NhanVien.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Them_ThucUong.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.ThongKe.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.ThongTin.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Xem_CaLam.resources
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Temporary\Project\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
